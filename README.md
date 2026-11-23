@@ -1,8 +1,11 @@
 # Niklas Lenz
 
-Wuppertal, Germany. I test local AI on my own hardware: one RTX 5090 (32 GB), two RTX 5060 Ti (16 GB each)
-and four NVIDIA GB10 systems of the DGX Spark class (two ASUS Ascent GX10, one Gigabyte AI TOP ATOM,
-one Lenovo ThinkStation PGX).
+Wuppertal, Germany. Local AI on 832 GB of memory. I rank what runs best on the machine you own: LLMs, image, video.
+Bringing the fire home.
+
+Hardware: four NVIDIA GB10 systems of the DGX Spark class (two ASUS Ascent GX10, one Gigabyte AI TOP ATOM,
+one Lenovo ThinkStation PGX; 128 GB each), one Mac Studio M5 Ultra (256 GB), one RTX 5090 (32 GB)
+and two RTX 5060 Ti (16 GB each).
 
 ## What I do
 
